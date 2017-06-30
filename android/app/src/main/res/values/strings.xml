@@ -1,0 +1,4 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">0.29.1</string>
+    <string name="app_name">NativeStarterKit</string>
+</resources>
