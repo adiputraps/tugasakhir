@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ## Native Starter Kit v6.1.0
 
@@ -167,3 +168,7 @@ Note: If you are building Native Starter Kit for first time on your system, plea
 
 
 For apps with more advance designs, please visit **[NativeBase Market](https://market.nativebase.io/)**.
+=======
+# ProyekUAS
+aplikasi jual beli voucher game online berbasis react-native
+>>>>>>> 4f9fd3c0be2cde09c95e2cea9c24f1a81b6ebcf0
